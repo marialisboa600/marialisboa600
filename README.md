@@ -9,7 +9,7 @@
 
 - 📫  **marialisboa1515@gmail.com**
 
-<h3 align="left">Conecte-se comigo!:</h3>
+<h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maria-lisboa/" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo-650x366.png"alt="maria lisboa" height="30" width="40" /></a>
 <h3 align="left">Habilidades:</h3>
