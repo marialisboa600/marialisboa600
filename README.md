@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Maria Lisboa</h1>
-<h3 align="center">Em transição de carreira, estudando Desenvolvimento web na TRYBE.</h3>
+<h3 align="center">Em transição de carreira, estudando Desenvolvimento Web na TRYBE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marialisboa600&label=Profile%20views&color=0e75b6&style=flat" alt="marialisboa600" /> </p>
 
